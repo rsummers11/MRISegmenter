@@ -9,11 +9,11 @@
 
 [Yan Zhuang](https://yanzhuang.me/)<sup>1</sup>, Tejas Sudharshan Mathai<sup>2</sup>, Pritam Mukherjee<sup>2</sup>, Brandon Khoury<sup>3</sup>, Boah Kim<sup>4</sup>,  Benjamin Hou<sup>2</sup>, Nusrat Rabbee<sup>5</sup>,  [Abhinav Suri](https://abhinavsuri.com/)<sup>2</sup>, and Ronald M. Summers<sup>2</sup>  
  
-<sup>1</sup> Department of Diagnostic, Molecular, and Interventional Radiology, Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA 
-<sup>2</sup> Department of Radiology and Imaging Sciences, Imaging Biomarkers and Computer Aided Diagnosis Laboratory, National Institutes of Health Clinical Center, 10 Center Dr, Bldg 10, Rm 1C224D, Bethesda, MD, USA
-<sup>3</sup> Department of Radiology, Walter Reed National Military Medical Center, Bethesda, MD, USA
-<sup>4</sup> Department of MetaBioHealth, Sungkyunkwan University, Seoul, South Korea
-<sup>5</sup> Department of Biostatistics and Clinical Epidemiology Services, National Institutes of Health Clinical Center, Bethesda, MD, USA
+<sup>1</sup> Department of Diagnostic, Molecular, and Interventional Radiology, Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA   
+<sup>2</sup> Department of Radiology and Imaging Sciences, Imaging Biomarkers and Computer Aided Diagnosis Laboratory, National Institutes of Health Clinical Center, 10 Center Dr, Bldg 10, Rm 1C224D, Bethesda, MD, USA  
+<sup>3</sup> Department of Radiology, Walter Reed National Military Medical Center, Bethesda, MD, USA   
+<sup>4</sup> Department of MetaBioHealth, Sungkyunkwan University, Seoul, South Korea   
+<sup>5</sup> Department of Biostatistics and Clinical Epidemiology Services, National Institutes of Health Clinical Center, Bethesda, MD, USA   
 
 <font size="2"><sup>*</sup> equal contribution </font> 
 
