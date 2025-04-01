@@ -3,7 +3,7 @@
   <img src="assets/MRISegmentatorLogo.png?raw=true" width="40%" />
 </p>
 -->
-## **MRISegmentator-Abdomen**
+## **MRISegmenter**
 
 **MRISegmenter: A Fully Accurate and Robust Automated Multiorgan and Structure Segmentation Tool for T1-weighted Abdominal MRI**  
 
