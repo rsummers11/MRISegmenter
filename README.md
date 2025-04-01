@@ -17,7 +17,7 @@
 
 [[Paper](https://arxiv.org/abs/2405.05944)]   [[Dataset(coming soon!)](https://)]   
 
-**Acknowledgement**: This work was supported by the Intramural Research Program of the National Institutes of Health (NIH) Clinical Center (project number 1Z01 CL040004). This work used the computational resources of the NIH HPC Biowulf cluster. We thank ChatGPT 4o for generating the logo used in this project.
+**Acknowledgement**: This work was supported by the Intramural Research Program of the National Institutes of Health (NIH) Clinical Center (project number 1Z01 CL040004). This work used the computational resources of the NIH HPC Biowulf cluster. Y.Z is supported in part by the Eric and Wendy Schmidt AI in Human Health Fellowship Program at Icahn School of Medicine at Mount Sinai. This work utilized the computational resources of the NIH HPC Biowulf cluster. This work was supported in part through the computational and data resources and staff expertise provided by Scientific Computing and Data at the Icahn School of Medicine at Mount Sinai and supported by the Clinical and Translational Science Awards (CTSA) grant UL1TR004419 from the National Center for Advancing Translational Sciences. We thank ChatGPT 4o for generating the logo used in this project.
 
 <p align="center">
   <img src="assets/organ_structure_examples.png?raw=true" width="90%" />
