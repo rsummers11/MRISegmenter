@@ -15,8 +15,6 @@
 <sup>4</sup> Department of MetaBioHealth, Sungkyunkwan University, Seoul, South Korea   
 <sup>5</sup> Department of Biostatistics and Clinical Epidemiology Services, National Institutes of Health Clinical Center, Bethesda, MD, USA   
 
-<font size="2"><sup>*</sup> equal contribution </font> 
-
 [[Paper](https://arxiv.org/abs/2405.05944)]   [[Dataset(coming soon!)](https://)]   
 
 **Acknowledgement**: This work was supported by the Intramural Research Program of the National Institutes of Health (NIH) Clinical Center (project number 1Z01 CL040004). This work used the computational resources of the NIH HPC Biowulf cluster. We thank ChatGPT 4o for generating the logo used in this project.
