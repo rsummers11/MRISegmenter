@@ -7,11 +7,14 @@
 
 **MRISegmenter: A Fully Accurate and Robust Automated Multiorgan and Structure Segmentation Tool for T1-weighted Abdominal MRI**  
 
-[Yan Zhuang](https://yanzhuang.me/)<sup>1</sup>, Tejas Sudharshan Mathai<sup>1, *</sup>, Pritam Mukherjee<sup>1, *</sup>, Brandon Khoury<sup>2</sup>, Boah Kim<sup>1</sup>,  Benjamin Hou<sup>1</sup>, Nusrat Rabbee<sup>3</sup>,  [Abhinav Suri](https://abhinavsuri.com/)<sup>1</sup>, and Ronald M. Summers<sup>1</sup>  
+[Yan Zhuang](https://yanzhuang.me/)<sup>1</sup>, Tejas Sudharshan Mathai<sup>2</sup>, Pritam Mukherjee<sup>2</sup>, Brandon Khoury<sup>3</sup>, Boah Kim<sup>4</sup>,  Benjamin Hou<sup>2</sup>, Nusrat Rabbee<sup>5</sup>,  [Abhinav Suri](https://abhinavsuri.com/)<sup>2</sup>, and Ronald M. Summers<sup>2</sup>  
  
-<sup>1</sup> Imaging Biomarkers and Computer-Aided Diagnosis Laboratory, NIH Clinical Center  
-<sup>2</sup> Department of Radiology, Walter Reed National Military Medical Center   
-<sup>3</sup> Biostatistics and Clinical Epidemiology Services, NIH Clinical Center   
+<sup>1</sup> Department of Diagnostic, Molecular, and Interventional Radiology, Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA 
+<sup>2</sup> Department of Radiology and Imaging Sciences, Imaging Biomarkers and Computer Aided Diagnosis Laboratory, National Institutes of Health Clinical Center, 10 Center Dr, Bldg 10, Rm 1C224D, Bethesda, MD, USA
+<sup>3</sup> Department of Radiology, Walter Reed National Military Medical Center, Bethesda, MD, USA
+<sup>4</sup> Department of MetaBioHealth, Sungkyunkwan University, Seoul, South Korea
+<sup>5</sup> Department of Biostatistics and Clinical Epidemiology Services, National Institutes of Health Clinical Center, Bethesda, MD, USA
+
 <font size="2"><sup>*</sup> equal contribution </font> 
 
 [[Paper](https://arxiv.org/abs/2405.05944)]   [[Dataset(coming soon!)](https://)]   
