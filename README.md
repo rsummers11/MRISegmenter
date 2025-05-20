@@ -90,6 +90,12 @@ MRISegmentator is a research-grade segmentation tool currently under active deve
 ### References
 If you find our work is useful for your research, please cite
 ```bib
+title={MRISegmenter: A Fully Accurate and Robust Automated Multiorgan and Structure Segmentation Tool for T1-weighted Abdominal MRI},
+  author={Yan Zhuang, Tejas Sudharshan Mathai, Pritam Mukherjee, Brandon Khoury, Boah Kim, Benjamin Hou, Nusrat Rabbee, Abhinav Suri, and Ronald M. Summers},
+  journal={Radiology},
+  year={2025}
+```
+```bib
 @article{zhuang2024mrisegmentator,
   title={MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI},
   author={Zhuang, Yan and Mathai, Tejas Sudharshan and Mukherjee, Pritam and Khoury, Brandon and Kim, Boah and Hou, Benjamin and Rabbee, Nusrat and Suri, Abhinav and Summers, Ronald M},
