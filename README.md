@@ -17,6 +17,10 @@
 
 [[Paper](https://arxiv.org/abs/2405.05944)]      
 
+### License
+
+Please check out [the license file](Software%20Terms%20of%20MRISegmentator.pdf). 
+
 **Acknowledgement**: This work was supported by the Intramural Research Program of the National Institutes of Health (NIH) Clinical Center (project number 1Z01 CL040004). This work used the computational resources of the NIH HPC Biowulf cluster. Y.Z is supported in part by the Eric and Wendy Schmidt AI in Human Health Fellowship Program at Icahn School of Medicine at Mount Sinai. This work utilized the computational resources of the NIH HPC Biowulf cluster. 
 
 <!---
@@ -120,9 +124,7 @@ We used nnUnet in our research, please also consider citing
   publisher={Nature Publishing Group}
 }
 ```
-### License
 
-Please check out [the license file](Software%20Terms%20of%20MRISegmentator.pdf). 
 
 ### Segmentation labels
 
