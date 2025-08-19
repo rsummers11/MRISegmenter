@@ -25,8 +25,8 @@ Please check out [the license file](Software%20Terms%20of%20MRISegmentator.pdf).
 
 There are no restrictions on the use of the NIH MRI volumes. However, the dataset has the following requirements that MUST be adhered to:
 
-- Provide a link to the NIH download site (see above) in your paper
 - Include a citation to our 2025 Radiology paper (see below) in your publications
+- Provide a link to the NIH download site (see above) in your paper
 - Acknowledge that the NIH Clinical Center is the data provider
 - While the dataset has been anonymized and checked for any personally identifiable information (PII), NO attempts should be made to re-identify the patients. 
 
