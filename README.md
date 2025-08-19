@@ -17,7 +17,7 @@
 
 [[Paper](https://pubs.rsna.org/doi/full/10.1148/radiol.241979)]      [[Dataset](https://nihcc.box.com/s/zbrocs18g9ctrl0gb4n3hq7dlotpuwg5)]   [[Model Weights](https://nihcc.box.com/s/zbrocs18g9ctrl0gb4n3hq7dlotpuwg5)]
 
-### License
+### License (Software Terms of Use)
 
 Please check out [the license file](Software%20Terms%20of%20MRISegmentator.pdf). 
 
@@ -25,10 +25,10 @@ Please check out [the license file](Software%20Terms%20of%20MRISegmentator.pdf).
 
 There are no restrictions on the use of the NIH MRI volumes. However, the dataset has the following requirements that MUST be adhered to:
 
-- Provide a link to the NIH download site (see above)
-- Include a citation to the 2025 Radiology paper (see below)
+- Provide a link to the NIH download site (see above) in your paper
+- Include a citation to our 2025 Radiology paper (see below) in your publications
 - Acknowledge that the NIH Clinical Center is the data provider
-- While the dataset has been anonymized and checked for any personally identifiable information (PII), no attempts should be made to re-identify the patients. 
+- While the dataset has been anonymized and checked for any personally identifiable information (PII), NO attempts should be made to re-identify the patients. 
 
 
 ### Acknowledgements
