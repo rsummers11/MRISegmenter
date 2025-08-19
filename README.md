@@ -31,7 +31,44 @@ There are no restrictions on the use of the NIH MRI volumes. However, the datase
 - While the dataset has been anonymized and checked for any personally identifiable information (PII), no attempts should be made to re-identify the patients. 
 
 
-**Acknowledgement**: This work was supported by the Intramural Research Program of the National Institutes of Health (NIH) Clinical Center (project number 1Z01 CL040004). This work used the computational resources of the NIH HPC Biowulf cluster. Y.Z is supported in part by the Eric and Wendy Schmidt AI in Human Health Fellowship Program at Icahn School of Medicine at Mount Sinai. This work utilized the computational resources of the NIH HPC Biowulf cluster. 
+### Acknowledgements
+
+This work was supported by the Intramural Research Program of the National Institutes of Health (NIH) Clinical Center (project number 1Z01 CL040004). This work used the computational resources of the NIH HPC Biowulf cluster. Y.Z is supported in part by the Eric and Wendy Schmidt AI in Human Health Fellowship Program at Icahn School of Medicine at Mount Sinai. This work utilized the computational resources of the NIH HPC Biowulf cluster. 
+
+### References
+
+If you find our work is useful for your research, please cite
+```bib
+@article{zhuang2025,
+title={MRISegmenter: A Fully Accurate and Robust Automated Multiorgan and Structure Segmentation Tool for T1-weighted Abdominal MRI},
+  author={Yan Zhuang, Tejas Sudharshan Mathai, Pritam Mukherjee, Brandon Khoury, Boah Kim, Benjamin Hou, Nusrat Rabbee, Abhinav Suri, and Ronald M. Summers},
+  journal={Radiology},
+  year={2025}
+}
+```
+```bib
+@article{zhuang2024mrisegmentator,
+  title={MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI},
+  author={Zhuang, Yan and Mathai, Tejas Sudharshan and Mukherjee, Pritam and Khoury, Brandon and Kim, Boah and Hou, Benjamin and Rabbee, Nusrat and Suri, Abhinav and Summers, Ronald M},
+  journal={arXiv preprint arXiv:2405.05944},
+  year={2024}
+}
+```
+
+We used nnUnet in our research, please also consider citing  
+
+```bib
+@article{isensee2021nnu,
+  title={nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation},
+  author={Isensee, Fabian and Jaeger, Paul F and Kohl, Simon AA and Petersen, Jens and Maier-Hein, Klaus H},
+  journal={Nature methods},
+  volume={18},
+  number={2},
+  pages={203--211},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+```
 
 <!---
 We thank ChatGPT 4o for generating the logo used in this project.
@@ -101,39 +138,7 @@ The last time model weights were changed was on **May 30, 2024**.
 MRISegmentator is a research-grade segmentation tool currently under active development. Please let us know if you encounter any issues or have suggestions for improvements.
 
 
-### References
-If you find our work is useful for your research, please cite
-```bib
-@article{zhuang2025,
-title={MRISegmenter: A Fully Accurate and Robust Automated Multiorgan and Structure Segmentation Tool for T1-weighted Abdominal MRI},
-  author={Yan Zhuang, Tejas Sudharshan Mathai, Pritam Mukherjee, Brandon Khoury, Boah Kim, Benjamin Hou, Nusrat Rabbee, Abhinav Suri, and Ronald M. Summers},
-  journal={Radiology},
-  year={2025}
-}
-```
-```bib
-@article{zhuang2024mrisegmentator,
-  title={MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI},
-  author={Zhuang, Yan and Mathai, Tejas Sudharshan and Mukherjee, Pritam and Khoury, Brandon and Kim, Boah and Hou, Benjamin and Rabbee, Nusrat and Suri, Abhinav and Summers, Ronald M},
-  journal={arXiv preprint arXiv:2405.05944},
-  year={2024}
-}
-```
 
-We used nnUnet in our research, please also consider citing  
-
-```bib
-@article{isensee2021nnu,
-  title={nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation},
-  author={Isensee, Fabian and Jaeger, Paul F and Kohl, Simon AA and Petersen, Jens and Maier-Hein, Klaus H},
-  journal={Nature methods},
-  volume={18},
-  number={2},
-  pages={203--211},
-  year={2021},
-  publisher={Nature Publishing Group}
-}
-```
 
 
 ### Segmentation labels
