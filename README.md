@@ -37,7 +37,7 @@ This work was supported by the Intramural Research Program of the National Insti
 
 ### References
 
-If you find our work is useful for your research, please cite
+If you use our dataset and/or model, or if you find our work is useful for your research, please cite the following:
 ```bib
 @article{zhuang2025,
 title={MRISegmenter: A Fully Accurate and Robust Automated Multiorgan and Structure Segmentation Tool for T1-weighted Abdominal MRI},
